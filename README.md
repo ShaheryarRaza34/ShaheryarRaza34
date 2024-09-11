@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SharyR</h1>
-<h3 align="center">An AI Enthusiast, enroute to innovative mission in the area of decentralized AI.</h3>
+<h3 align="center">An AI Enthusiast, enroute to an innovative mission in AI and Software Development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
